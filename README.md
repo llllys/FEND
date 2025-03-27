@@ -35,7 +35,7 @@ In our experiment, the performance of QCNet+FEND is worse than that of QCNet alo
 - Hyperparameters are not optimized
 
 
-Reader are encouraged to implement the full FEND framework and experiment on ETH-UCY and Nuscenes to compare the results with the paper.
+Readers are encouraged to implement the full FEND framework and experiment on ETH-UCY and Nuscenes to compare the results with the paper.
 
 ## Acknowledgement
 We appreciate [QCNet](https://github.com/ZikangZhou/QCNet) for their valuable code base.
