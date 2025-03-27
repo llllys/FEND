@@ -111,6 +111,7 @@ venv.bak/
 # seed project
 lightning_logs/
 results/
+
 .DS_Store
 
 *.ckpt
